@@ -577,3 +577,12 @@ MIT License
 
 Built by Goutham Manoharan.
 
+---
+###Updates to look forward to:
+- add sentence-level text highlighting in the UI
+- add article clustering by event
+- add fact-check source integration
+- add report export to PDF / HTML
+- add RAG over saved prior analyses
+- add evaluation datasets for calibration
+- turning this into a tool, easy for you to access
