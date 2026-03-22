@@ -1,0 +1,30 @@
+source_name,domain,source_leaning,country,notes
+The Guardian,theguardian.com,left,UK,Sample editable leaning label
+MSNBC,msnbc.com,left,US,Sample editable leaning label
+CNN,cnn.com,left,US,Sample editable leaning label
+HuffPost,huffpost.com,left,US,Sample editable leaning label
+Slate,slate.com,left,US,Sample editable leaning label
+New York Times,nytimes.com,left,US,Sample editable leaning label
+NPR,npr.org,left,US,Sample editable leaning label
+Washington Post,washingtonpost.com,left,US,Sample editable leaning label
+Politico,politico.com,left,US,Sample editable leaning label
+BBC,bbc.com,center,UK,Sample editable leaning label
+BBC,bbc.co.uk,center,UK,Sample editable leaning label
+Reuters,reuters.com,center,Global,Sample editable leaning label
+Associated Press,apnews.com,center,US,Sample editable leaning label
+Bloomberg,bloomberg.com,center,US,Sample editable leaning label
+Axios,axios.com,center,US,Sample editable leaning label
+The Hill,thehill.com,center,US,Sample editable leaning label
+USA Today,usatoday.com,center,US,Sample editable leaning label
+Wall Street Journal,wsj.com,right,US,Sample editable leaning label
+Fox News,foxnews.com,right,US,Sample editable leaning label
+New York Post,nypost.com,right,US,Sample editable leaning label
+National Review,nationalreview.com,right,US,Sample editable leaning label
+Daily Wire,dailywire.com,right,US,Sample editable leaning label
+The Federalist,thefederalist.com,right,US,Sample editable leaning label
+Breitbart,breitbart.com,right,US,Sample editable leaning label
+Washington Examiner,washingtonexaminer.com,right,US,Sample editable leaning label
+The Spectator,spectator.co.uk,right,UK,Sample editable leaning label
+Sky News,news.sky.com,center,UK,Sample editable leaning label
+Al Jazeera,aljazeera.com,center,Global,Sample editable leaning label
+Financial Times,ft.com,center,UK,Sample editable leaning label

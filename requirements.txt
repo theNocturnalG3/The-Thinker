@@ -1,0 +1,9 @@
+openai
+streamlit
+httpx
+trafilatura
+beautifulsoup4
+pandas
+pydantic
+python-dotenv
+tldextract

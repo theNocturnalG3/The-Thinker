@@ -1,0 +1,18 @@
+0.exp/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Streamlit / local files
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
