@@ -1,4 +1,4 @@
-# News Reasoning Auditor
+# The Thinker
 
 A Streamlit app that takes a news URL and produces a **reasoning audit** rather than a “truth verdict”.
 
